@@ -7,6 +7,10 @@ public class INDSalesLogin {
 		System.out.println(" IND This for sales login ");
 	}
 	
+	public void USsaleslogin01()
+	{
+		System.out.println(" US This for sales login ");
+	}
 	
 
 }
