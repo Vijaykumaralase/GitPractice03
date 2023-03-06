@@ -20,4 +20,9 @@ public void USMastermethod01()
 	System.out.println("US:New change after add");
 
 }
+public void INDMastermethod01()
+{
+	System.out.println("IND:New changes done by ind person second time");
+
+}
 }
